@@ -1,0 +1,10 @@
+prototype 
+
+Mediante este metodo podemos crear una funcion que tenga acceso a las propiedades del objeto creado a partir de una clase.
+Con el fin de evitar reescribir el objeto una y otra ves.
+
+Constructors (de Clases)
+
+Metodo por el cual podemos crear una clase en base a un objeto.
+
+
