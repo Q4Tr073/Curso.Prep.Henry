@@ -1,0 +1,8 @@
+for : bucle que repite una operacion, cuya estructura es similar al , if (){} , solo que dentro del () debe contener:
+*la declaracion de la variable.
+*la condicion de la variable.
+*la incrementacion de la variable.
+
+&&: operador logico que copara 2 expresiones, si ambas son true continua la operacion.
+||: operador logico que copara 2 expresiones, si una es true contiua la operacion.
+!: operador logico que vuelve negatina la exprecion, !(1===2) es true, (1===2) es false.
