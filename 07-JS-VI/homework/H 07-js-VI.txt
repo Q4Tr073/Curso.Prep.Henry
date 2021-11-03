@@ -1,0 +1,3 @@
+Funciones Callback
+
+Se denmomina a la funcion que se pasan como parametro a otra funcion al ser imbocada.
