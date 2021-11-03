@@ -1,0 +1,13 @@
+Objeto: conjunto de datos asignados una variable a la cual puedo acceder y modificar que a su vez pueden estar dentro de un array.
+
+Propiedades: elementos que conforman este objeto.
+
+Metodo: funciones dentro del objeto.
+
+For (... in) : es un bucle que nos permite operar dentro del objeto.
+
+Notación de puntos vs notación de corchetes.
+
+En la notacion de puntos tenemos como ventaja practica la forma de abreviar e imbocar dichas propiedades que componen el Objeto una ves que sepamos como son su nombre especifico.
+
+Mientras en la notacion de corchetes esta estrictamente ligado a como se determino la propiedad en primera instancia, ya que se puede llamar a las propiedades del objeto mediante su variable. 
