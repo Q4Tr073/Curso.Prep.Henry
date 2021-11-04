@@ -1,0 +1,33 @@
+body {
+    background: url(https://elements-video-cover-images-0.imgix.net/files/bbae20eb-841d-4c3e-a319-2564266bd641/inline_image_preview.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=962cff2c7b9a473cd62223edbe2a626f)
+}
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+#titulo {
+    font-size: 20px;
+}
+#idioma {
+    font-size: 20px;
+}
+#experiencia {
+    font-size: 20px;
+}
+#objetivo {
+    font-size: 20px;
+}
+#datos {
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: left;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2;
+}
